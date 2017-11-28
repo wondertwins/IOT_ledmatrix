@@ -1,4 +1,4 @@
-### Internet Connected Led Matrix
+###### Internet Connected Led Matrix
 
 ## Introduction
 > This LED matrix code has been made in two sizes a 100 pixel size and a 256 pixel size. Both are able to fetch data from the web and display things such as local time and weather, tweets, news and so much more! They are also able to display a vairety of animations and gifs. 
