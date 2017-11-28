@@ -12,4 +12,7 @@
 ## Important Notes
 > The included Illustrator file is to be laser cut (or hand sawed if brave enough) out of pretty much any material that is 5.35mm thick and sturdy. There is also a Fusion 360 file with the proper paraments to change material thickness accordingly.
 
+![alt text](https://github.com/wondertwins/IOT_ledmatrix/blob/master/20161008_141449.jpg)
+
+![alt text](https://github.com/wondertwins/IOT_ledmatrix/blob/master/20161110_163325.jpg)
 
